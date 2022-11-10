@@ -79,7 +79,7 @@
         /* ----------------------------------------------------------- */
 
 		$(".contactform").on("submit", function() {
-			$(".output_message").text("Sending...");
+			$(".output_message").text("Hi Ais...");
 
 			var form = $(this);
 			$.ajax({

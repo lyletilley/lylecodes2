@@ -536,8 +536,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(https://scontent.fyhz1-1.fna.fbcdn.net/v/t1.6435-9/86350235_10157160992833250_359830242640003072_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_ohc=9Byd3vjbWcgAX8XWyvZ&tn=O7NOOHFzJpMRro5C&_nc_ht=scontent.fyhz1-1.fna&oh=00_AT912dCSHmoi8wL7Uwnv5zm6MqE3rvKvVr9fMCigzzgoRw&oe=636BF432);
-  background-size: cover;
+  background-image: url(https://media-exp1.licdn.com/dms/image/C4D03AQEC_iaW8lloNA/profile-displayphoto-shrink_800_800/0/1581527786490?e=1673481600&v=beta&t=gSk90s-NurttZBW8A9PjVTh13yP0DbZV4YSywS0_pcQ);
   background-repeat: no-repeat;
   background-position: top;
   height: calc(100vh - 80px);

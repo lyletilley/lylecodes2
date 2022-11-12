@@ -535,9 +535,14 @@ body.light hr.separator {
   top: -50%;
 }
 
+.me {
+  background-image: no-repeat center center fixed; ;
+}
 .home .bg {
+
   background-image: url(https://media-exp1.licdn.com/dms/image/C4D03AQEC_iaW8lloNA/profile-displayphoto-shrink_800_800/0/1581527786490?e=1673481600&v=beta&t=gSk90s-NurttZBW8A9PjVTh13yP0DbZV4YSywS0_pcQ);
   background-repeat: no-repeat;
+   background-repeat: no-repeat;
   background-position: top;
   height: calc(100vh - 80px);
   z-index: 111;
@@ -545,6 +550,7 @@ body.light hr.separator {
   left: 40px;
   top: 40px;
   box-shadow: 0 0 7px rgba(0,0,0,.9);
+  
 }
 
 .home .container-home {

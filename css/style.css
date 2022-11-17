@@ -48,6 +48,11 @@ html {
   height: 100%;
 }
 
+.lylePrice {
+  color: blue;
+  background-color: #888;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   font-size: 15px;

@@ -76,7 +76,7 @@ body {
 }
 
 hr.separator {
-  border-top: 1px solid #252525;
+  border-top: 10px solid #5d5858;
   margin: 70px auto 55px;
   max-width: 40%;
 }
@@ -674,14 +674,17 @@ body.light hr.separator {
 
 .about .resume-box ul {
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
   list-style: none;
+  align-items: center !important;
+  /* text-align: center; */
 }
 
 .about .resume-box li {
   position: relative;
   padding: 0 20px 0 60px;
   margin: 0 0 50px;
+  align-items: center !important;
 }
 
 .about .resume-box li:after {
@@ -1673,6 +1676,7 @@ body.light hr.separator {
 
   .custom-title {
     font-size: 21px;
+    text-align: center !important;
   }
 
   .about .main-content {

@@ -94,8 +94,22 @@ hr.separator {
 }
 
 .custom-title {
-  padding-bottom: 22px;
-  font-size: 26px;
+  padding-bottom: 40px;
+  font-size: 33px;
+  animation-name: spin;
+  animation-duration: 5000ms;
+  animation-iteration-count: 2;
+  animation-timing-function: linear; 
+
+}
+
+@keyframes spin {
+  from {
+      transform:rotate(0deg);
+  }
+  to {
+      transform:rotate(360deg);
+  }
 }
 
 /*** Light Body ***/

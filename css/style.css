@@ -1030,6 +1030,7 @@ body.light hr.separator {
 /* Carousel */
 
 .portfolio .slideshow .carousel-indicators {
+  display: none !important;
   bottom: 0;
   background: rgba(0,0,0,.4);
   padding: 10px 0;

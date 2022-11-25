@@ -142,6 +142,11 @@ body.light .preloader .black_wall {
 
 .center {
   text-align: center !important;
+  flex-wrap: wrap !important;
+  color: #ffb400 !important;
+  position: center !important;
+
+
   
 }
 

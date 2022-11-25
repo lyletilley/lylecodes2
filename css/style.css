@@ -85,10 +85,6 @@ hr.separator {
   font-weight: 600;
 }
 
-h2 {
-  text-align: center !important;
-}
-
 .mb-30 {
   margin-bottom: 30px;
 }
@@ -140,6 +136,7 @@ body.light .preloader .black_wall {
   background-color: #eee;
 }
 
+<<<<<<< HEAD
 .center {
   text-align: center !important;
   flex-wrap: wrap !important;
@@ -151,6 +148,8 @@ body.light .preloader .black_wall {
 }
 
 
+=======
+>>>>>>> parent of 79d17dd (test)
 body.light .preloader {
   background-color: #fff;
 }

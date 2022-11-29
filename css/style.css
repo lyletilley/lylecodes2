@@ -252,6 +252,11 @@ body.light.blog .page-item.active .page-link {
   color: #fff;
 }
 
+
+.center {
+  color: #ffb400
+}
+
 body.light hr.separator {
   border-top: 1px solid #ddd;
 }

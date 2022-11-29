@@ -254,7 +254,16 @@ body.light.blog .page-item.active .page-link {
 
 
 .center {
-  color: #ffb400
+  color: #ffb400;
+ 
+  animation-name: stretch;
+  animation-duration: 2.0s;
+  animation-timing-function: ease-out !important;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+	
+
 }
 
 body.light hr.separator {

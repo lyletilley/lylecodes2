@@ -67,6 +67,12 @@ body {
   background-color: #111;
 }
 
+.center {
+  color: #ffb400;
+  text-transform: uppercase;
+}
+
+
 .poppins-font {
   font-family: 'Poppins', sans-serif;
 }
@@ -1056,6 +1062,7 @@ body.light hr.separator {
   padding: 200px 30px;
   color: #fff;
 }
+
 
 .portfolio .slideshow nav span.nav-prev,
 .portfolio .slideshow nav span.nav-next {
